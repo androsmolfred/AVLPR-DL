@@ -1,0 +1,7 @@
+__pycache__/
+FloderPath/
+
+node_modules/
+test_images/
+test_results/
+public/
